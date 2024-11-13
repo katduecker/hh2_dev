@@ -1,2 +1,2 @@
-# hh2_dev
-Gathering activation/inactivation for HH dynamics in soma
+# HNN_tuning
+Development of new pyramidal cells for HNN
